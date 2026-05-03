@@ -60,3 +60,4 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_17333673
 tzdata==2025.3
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1770634525285/work
 xgboost==3.2.0
+
